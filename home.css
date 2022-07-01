@@ -305,9 +305,10 @@
 }
 .home-med-school {
   width: 100%;
-  height: 559px;
+  height: auto;
   display: flex;
   max-width: var(--dl-size-size-maxwidth);
+  min-height: auto;
   align-items: center;
   padding-top: var(--dl-space-space-threeunits);
   padding-left: 150px;
@@ -323,7 +324,7 @@
 }
 .home-container03 {
   width: 100%;
-  height: 372px;
+  height: 80%;
   display: flex;
   align-items: center;
   flex-direction: row;
@@ -332,7 +333,7 @@
 .home-container04 {
   flex: 50%;
   width: 50%;
-  height: 100%;
+  height: 387px;
   align-items: center;
   padding-top: 0px;
   padding-left: var(--dl-space-space-twounits);
@@ -349,13 +350,11 @@
 .home-text20 {
   font-style: italic;
   font-family: Noto Sans;
-  padding-top: 0px;
-  padding-bottom: 0px;
 }
 .home-container05 {
   flex: 50%;
   width: 50%;
-  height: 100%;
+  height: 380px;
   align-items: center;
   padding-top: 0px;
   padding-left: var(--dl-space-space-twounits);
@@ -415,20 +414,14 @@
 .home-text37 {
   text-decoration: underline;
 }
-.home-text42 {
+.home-text43 {
   text-decoration: underline;
 }
-.home-text49 {
+.home-text50 {
   text-decoration: underline;
 }
-.home-text55 {
+.home-text56 {
   text-decoration: underline;
-}
-.home-image4 {
-  width: 426px;
-  height: 484px;
-  align-self: center;
-  object-fit: cover;
 }
 .home-things-ive-founded {
   width: 100%;
@@ -443,7 +436,7 @@
   padding-bottom: var(--dl-space-space-threeunits);
   justify-content: space-between;
 }
-.home-text64 {
+.home-text62 {
   font-size: 3rem;
   text-align: center;
   font-family: Noto Sans;
@@ -467,7 +460,7 @@
   padding-top: 0px;
   justify-content: center;
 }
-.home-image5 {
+.home-image4 {
   width: 100%;
   object-fit: cover;
   text-decoration: none;
@@ -480,7 +473,7 @@
   align-items: center;
   justify-content: center;
 }
-.home-text65 {
+.home-text63 {
   width: 100%;
   height: 100%;
   font-size: 20px;
@@ -506,7 +499,7 @@
   padding-top: 0px;
   justify-content: center;
 }
-.home-image6 {
+.home-image5 {
   width: 100%;
   object-fit: cover;
   text-decoration: none;
@@ -519,7 +512,7 @@
   align-items: center;
   justify-content: center;
 }
-.home-text66 {
+.home-text64 {
   width: 100%;
   height: 100%;
   font-size: 20px;
@@ -539,7 +532,7 @@
   padding-bottom: var(--dl-space-space-threeunits);
   justify-content: space-between;
 }
-.home-text67 {
+.home-text65 {
   font-size: 3rem;
   text-align: center;
   font-family: Noto Sans;
@@ -586,13 +579,13 @@
   background-size: cover;
   background-image: url("public/playground_assets/img_1449-1400w.jpeg");
 }
-.home-text69 {
+.home-text67 {
   color: var(--dl-color-gray-white);
   font-size: 1.5rem;
   font-family: Noto Sans;
   font-weight: 600;
 }
-.home-text70 {
+.home-text68 {
   color: var(--dl-color-gray-white);
   margin-top: var(--dl-space-space-halfunit);
   font-family: Noto Sans;
@@ -623,13 +616,13 @@
   background-size: cover;
   background-image: url("public/playground_assets/img_1dcf810bcc3a-1-1200h.jpeg");
 }
-.home-text71 {
+.home-text69 {
   color: var(--dl-color-gray-white);
   font-size: 1.5rem;
   font-family: Noto Sans;
   font-weight: 600;
 }
-.home-text72 {
+.home-text70 {
   color: var(--dl-color-gray-white);
   margin-top: var(--dl-space-space-halfunit);
   font-family: Noto Sans;
@@ -660,13 +653,13 @@
   background-size: cover;
   background-image: url("public/playground_assets/cooking-1400w.png");
 }
-.home-text74 {
+.home-text72 {
   color: var(--dl-color-gray-white);
   font-size: 1.5rem;
   font-family: Noto Sans;
   font-weight: 600;
 }
-.home-text75 {
+.home-text73 {
   color: var(--dl-color-gray-white);
   margin-top: var(--dl-space-space-halfunit);
   font-family: Noto Sans;
@@ -697,13 +690,13 @@
   background-size: cover;
   background-image: url("public/playground_assets/img_5745-1400w.jpg");
 }
-.home-text76 {
+.home-text74 {
   color: var(--dl-color-gray-white);
   font-size: 1.5rem;
   font-family: Noto Sans;
   font-weight: 600;
 }
-.home-text77 {
+.home-text75 {
   color: var(--dl-color-gray-white);
   margin-top: var(--dl-space-space-halfunit);
   font-family: Noto Sans;
@@ -734,13 +727,13 @@
   background-size: cover;
   background-image: url("public/playground_assets/img_0593-1400w.jpeg");
 }
-.home-text79 {
+.home-text77 {
   color: var(--dl-color-gray-white);
   font-size: 1.5rem;
   font-family: Noto Sans;
   font-weight: 600;
 }
-.home-text80 {
+.home-text78 {
   color: var(--dl-color-gray-white);
   margin-top: var(--dl-space-space-halfunit);
   font-family: Noto Sans;
@@ -771,13 +764,13 @@
   background-size: cover;
   background-image: url("public/playground_assets/basketball%20games-1400w.png");
 }
-.home-text81 {
+.home-text79 {
   color: var(--dl-color-gray-white);
   font-size: 1.5rem;
   font-family: Noto Sans;
   font-weight: 600;
 }
-.home-text82 {
+.home-text80 {
   color: var(--dl-color-gray-white);
   margin-top: var(--dl-space-space-halfunit);
   font-family: Noto Sans;
@@ -793,7 +786,7 @@
   padding-bottom: var(--dl-space-space-twounits);
   justify-content: space-between;
 }
-.home-text84 {
+.home-text82 {
   color: var(--dl-color-gray-500);
 }
 @media(max-width: 991px) {
@@ -817,17 +810,16 @@
   .home-text09 {
     max-width: 100%;
   }
-  .home-med-school {
-    height: auto;
-  }
   .home-container03 {
     flex-direction: column;
   }
   .home-container04 {
     width: 100%;
+    height: 50%;
   }
   .home-container05 {
     width: 100%;
+    height: 50%;
   }
   .home-text23 {
     max-width: 100%;
@@ -835,7 +827,7 @@
   .home-container07 {
     width: 100%;
   }
-  .home-image5 {
+  .home-image4 {
     width: 100%;
     height: auto;
   }
@@ -845,7 +837,7 @@
   .home-container10 {
     width: 100%;
   }
-  .home-image6 {
+  .home-image5 {
     width: 100%;
     height: auto;
   }
@@ -855,16 +847,22 @@
   .home-gallery {
     grid-gap: var(--dl-space-space-unit);
   }
+  .home-text67 {
+    text-align: center;
+  }
+  .home-text68 {
+    text-align: center;
+  }
   .home-text69 {
     text-align: center;
   }
   .home-text70 {
     text-align: center;
   }
-  .home-text71 {
+  .home-text72 {
     text-align: center;
   }
-  .home-text72 {
+  .home-text73 {
     text-align: center;
   }
   .home-text74 {
@@ -873,22 +871,16 @@
   .home-text75 {
     text-align: center;
   }
-  .home-text76 {
+  .home-text77 {
     text-align: center;
   }
-  .home-text77 {
+  .home-text78 {
     text-align: center;
   }
   .home-text79 {
     text-align: center;
   }
   .home-text80 {
-    text-align: center;
-  }
-  .home-text81 {
-    text-align: center;
-  }
-  .home-text82 {
     text-align: center;
   }
 }
@@ -956,16 +948,9 @@
     padding-right: var(--dl-space-space-unit);
   }
   .home-med-school {
-    height: auto;
     margin-right: 0px;
     padding-left: var(--dl-space-space-twounits);
     padding-right: var(--dl-space-space-twounits);
-  }
-  .home-image2 {
-    height: 260px;
-  }
-  .home-image3 {
-    height: 260px;
   }
   .home-research1 {
     padding-left: var(--dl-space-space-twounits);
@@ -1001,7 +986,7 @@
     padding-left: var(--dl-space-space-twounits);
     padding-right: var(--dl-space-space-twounits);
   }
-  .home-text84 {
+  .home-text82 {
     text-align: center;
     margin-left: var(--dl-space-space-unit);
     margin-right: var(--dl-space-space-unit);
@@ -1069,7 +1054,7 @@
     padding: var(--dl-space-space-unit);
     flex-direction: column;
   }
-  .home-text84 {
+  .home-text82 {
     margin-left: 0px;
     margin-right: 0px;
     margin-bottom: var(--dl-space-space-unit);
